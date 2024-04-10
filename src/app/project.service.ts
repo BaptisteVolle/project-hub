@@ -11,7 +11,7 @@ export class ProjectService {
       id : 'gameoflife',
       name : 'Game of Life ',
       description : 'The Game of Life is a cellular automaton, come fill some cell and see what happens next.',
-      url : 'https://baptistevolle.github.io/gqmeoflife/',
+      url : 'https://baptistevolle.github.io/gameoflife/',
     },
 
     {
